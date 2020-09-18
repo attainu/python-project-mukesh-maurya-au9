@@ -16,3 +16,10 @@ So I have create a food delivey system to serve a large category of food direct 
 ### Name and theme
 Project Name : DeliceusGo
 Theme : Deliceus Go means serve the Deliceus Food only to make sweet relation.  
+
+### Module and Technology used
+Python 3.8
+Use OS navigation
+Date and Time Module    
+
+
